@@ -5,7 +5,7 @@
     pastExp=3
    
     #data read from a .xlsx file in the system
-    data = pd.read_excel('sample_input_skills.xlsx')
+    data = pd.read_excel('sample_input_job.xlsx')
     corpus=["Technical Expert,Data Analytics, Machine Learning, Financial Services, Human Resources, Legal Services, Engineering, Research, Undergraduate, Associate"]
     #Job Profile Description (#user defined)
     preferable_past_experience = 2 # Default value
